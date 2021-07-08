@@ -1,6 +1,12 @@
 # app_ui_whatsapp
 
-A new Flutter project.
+A new Flutter project. <BR>
+
+PASOS A SEGUIR: <BR>
+
+- Abrir el proyecto <BR>
+- Abrir terminal y digitar comando flutter pub get <BR>
+- Situarse en main y F5 <BR>
 
 ## Getting Started
 
